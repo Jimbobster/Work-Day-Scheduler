@@ -1,9 +1,11 @@
+/* Set the font family, size, and line height for the body */
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
 }
 
+/* Style for the textarea element */
 textarea {
   background: transparent;
   border: none;
@@ -13,6 +15,7 @@ textarea {
   padding: 10px;
 }
 
+/* Styling for the header element */
 header {
   text-align: center;
   background-color: transparent;
@@ -22,42 +25,50 @@ header {
   padding: 60px;
 }
 
+/* Styling for elements with class description */
 .description {
   white-space: pre-wrap;
 }
 
+/* Styling for elements with class time-block */
 .time-block {
   text-align: center;
   border-radius: 15px;
 }
 
+/* Styling for elements with class row */
 .row {
   white-space: pre-wrap;
   height: 80px;
   border-top: 1px solid rgb(17, 17, 17);
 }
 
+/* Styling for elements with class hour */
 .hour {
   background-color: #f18686;
   color: #000000;
   border-top: 1px dashed #000000;
 }
 
+/* Styling for elements with class past */
 .past {
   background-color: #19ab4c;
   color: rgb(186, 167, 23);
 }
 
+/* Styling for elements with class present */
 .present {
   background-color: #fb766f;
   color: white;
 }
 
+/* Styling for elements with class future */
 .future {
   background-color: #8677dd;
   color: white;
 }
 
+/* Styling for saveBtn */
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
@@ -66,6 +77,7 @@ header {
   color: white;
 }
 
+/* Styling for 'i' elements inside elements with class saveBtn during hover */
 .saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
