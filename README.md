@@ -29,7 +29,8 @@ The app should:
 ## Usage 
 <li>URL of the Deployed Application : https://jimbobster.github.io/Work-Day-Scheduler/
 <li>URL of the Repository that contains my code : https://github.com/Jimbobster/Work-Day-Scheduler
-Screenshot of Webpage : 
+<li>Screenshot of Webpage : ![Work-Day-Scheduler](https://github.com/Jimbobster/Work-Day-Scheduler/assets/146639118/dfe49f5c-7f26-4502-8186-a859b3e70b4c)
+
 
 ## Credits
 <li>JQuery
