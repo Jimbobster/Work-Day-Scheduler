@@ -27,8 +27,9 @@ The app should:
 <li>Persist events between refreshes of a page
 
 ## Usage 
-<li>URL of the Deployed Application : 
+<li>URL of the Deployed Application : https://jimbobster.github.io/Work-Day-Scheduler/
 <li>URL of the Repository that contains my code : https://github.com/Jimbobster/Work-Day-Scheduler
+Screenshot of Webpage : 
 
 ## Credits
 <li>JQuery
